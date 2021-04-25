@@ -42,3 +42,9 @@ background-color: wheat;
       height: 430px;
       width: 100%;
   }
+  .two{
+      border: 2px red solid;
+      margin-top: 2px;
+      height: 250px;
+      width: 100%;
+  }
