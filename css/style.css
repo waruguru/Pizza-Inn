@@ -1,3 +1,9 @@
+body{
+background-color: wheat;
+    @media screen and (min-width: 480px) {
+        
+    }
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -25,9 +31,14 @@
     background-color: #4CAF50;
     color: white;
   }
-  .section{
+ 
+  .one{
       border: 2px solid yellow;
+      background-image: url("/images/pizza.jpg");
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
       margin-top: 5px;
-      height: 230px;
+      height: 430px;
       width: 100%;
   }
