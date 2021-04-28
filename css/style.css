@@ -33,7 +33,7 @@ background-color: wheat;
   }
  
   .one{
-      border: 2px solid yellow;
+      /* border: 2px solid yellow; */
       background-image: url("/images/pizza.jpg");
       background-position: center;
       background-size: cover;
@@ -43,7 +43,7 @@ background-color: wheat;
       width: 100%;
   }
   .two{
-      border: 2px red solid;
+      /* border: 2px red solid; */
       margin-top: 2px;
       height: 250px;
       width: 100%;
