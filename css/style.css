@@ -61,3 +61,8 @@ background-color: wheat;
     text-align: center;
     margin: 2vh 0vh 0vh 2vh;
   }
+
+#mode {
+  width: 60%;
+  height: 30px;
+}
