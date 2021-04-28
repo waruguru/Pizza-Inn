@@ -6,8 +6,7 @@ PizzaInn
 #### By 
 Muriithi Joyce
 ## Description
-This is a landing page for a fictional studio that has different sections, welcome , about us services ,what we do, portfolio and contact us.
-
+This is a webpage of a pizza inn that allows the user to oredr pizza and then choose the order to their liking and on submit get the total amount to pay.
 
 ### Live Link
 https://waruguru.github.io/Delani-Studio/
