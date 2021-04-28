@@ -54,7 +54,7 @@ input{
 label{
     color: #c06014;
 }
-/* button{
+button{
     text-transform: uppercase;
     padding: 0.3rem 0.8rem;
     border: none;
@@ -70,4 +70,4 @@ label{
     color: #424642;
     font-size: 1.3rem;
     font-weight: 700;
-} */
+}
