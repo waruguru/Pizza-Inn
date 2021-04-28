@@ -51,3 +51,9 @@ background-color: wheat;
   .two, .three, .four {
     padding: 3%;
   }
+  h1 {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 10%;
+  }
