@@ -48,3 +48,6 @@ background-color: wheat;
       height: 250px;
       width: 100%;
   }
+  .two, .three, .four {
+    padding: 3%;
+  }
